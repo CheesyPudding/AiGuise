@@ -1,0 +1,34 @@
+﻿<!--
+    Home page layout.
+    Author(s): Xiang Zhu, Lukasz Bednarek
+    Date: November 28, 2022
+-->
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AIGuise</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/home.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<div class="main">
+
+    <div class="content-container" style="min-height:800px;">
+        <h1>AIGuise</h1>
+        <img src="images/images.jpg" style="width:227px;height:222px;margin-bottom:20px" />
+        <p>
+            AIGuise is a AI image guessing game that tests your perception and deduction against AI.
+            See how well you can guess the prompts for AI generated images.
+        </p>
+        <div class="btn-container">
+            <a class="btn btn-light major-btn app-btn" asp-controller="Game" asp-action="Play">Play</a>
+        </div>
+    </div>
+</div>

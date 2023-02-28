@@ -1,0 +1,92 @@
+﻿<!--
+    Game page layout.
+    Author(s): Jasper Zhou, Sean Zhu
+    Date: November 27, 2022
+-->
+@model GameData
+
+@{
+    Layout = null;
+}
+
+@{
+    ViewData["Title"] = "AIGuise - Game";
+    var data = ViewBag.GameData;
+    var winLose = ViewBag.GameWon;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AIGuise</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/AIGuesserGame.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Game.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<header>
+    <div class="btn-container">
+        <i class="fa fa-bar-chart fa-lg"></i>
+        <i class="fa fa-question-circle fa-lg"></i>
+    </div>
+</header>
+<div class="quit">
+    <button class="btn btn-light minor-btn app-btn" asp-area="" onclick="location.href='@Url.Action("Play", "Game")'">QUIT</button>
+</div>
+<div class="main">
+    <div class="play-content">
+        <div class="play-row">
+            <div class="word-left">
+                <p><span>@data.wordsLeft</span> words<br />remaining</p>
+            </div>
+
+            <div class="ai-pics">
+                @if (data.imageData != "data:image/gif;base64,")
+                {
+                    <img src="@data.imageData" class="img" alt="My image"/>  
+                }
+            </div>
+            <div class="lifeline">
+                <p><span>@data.lifelines</span> guesses<br />remaining</p>
+
+            </div>
+        </div>
+        <div>
+        @using (Html.BeginForm()) {
+        
+        }
+        </div>
+
+        <div class="selection">
+             <div class="left-col">
+                @if (winLose == true)
+                {
+                    <p>You guessed the prompt with @data.lifelines lives remaining!</p>
+                }
+                @if (winLose == false)
+                {
+                    <p>You failed to guess the prompt...</p>
+                }   
+                 <p>Your guessed words:</p>
+                 <p>@string.Join(" ", data.promptWordsGuessed)</p>
+             </div>
+             <div class="right-col">
+                 <a class="btn" asp-controller="Game" asp-action="Index">New Game</a>
+            </div>
+        </div>
+        <div class="btns">
+            @foreach (var word in data.promptWords)
+            {
+                <button class="btn">@word</button>
+            }
+        </div>
+     </div>
+</div>
+
+

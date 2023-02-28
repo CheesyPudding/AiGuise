@@ -1,0 +1,101 @@
+﻿* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.content-container game-content-container {
+    background-color: #0D0D0D;
+    position: static;
+    width: 100%;
+    margin: 0;
+}
+
+.title {
+    font-size: clamp(40px,7vw,50px);
+    font-family: Montserrat;
+    font-weight: SemiBold;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+    position: inherit;
+}
+
+.des {
+    position: relative;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+    font-size: clamp(40px,7vw,90px);
+    color: #ffffff;
+    text-align: center;
+    margin: 0 10%;
+}
+.gameDes {
+    /*font-family: Nunito;*/
+    font-family: Montserrat;
+    font-size: 16px;
+    color: #ffffff;
+    margin: clamp(15px,3vw,50px) auto;
+    text-align: center;
+    margin: 2em 10%;
+}
+.sel {
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+/* Play button */
+.btn1-container {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.btn1-container .btn {
+    pointer-events: none;
+    background-color: gray;
+}
+
+    .btn1-container .btnActive {
+        pointer-events: initial;
+        background-color: #00CC33;
+        color: #FFFBC1;
+    }
+
+/*don't delet btn class*/
+.btn {
+    padding: 8px 25px;
+    margin: 0px 40px;
+    background-color: #F3CDA9;
+    border-radius: 10px;
+    /*font-family: Montserrat;*/
+    font-size: 20px;
+    width: 50%;
+}
+
+.game-content-container .btn {
+    width: 100%;
+    margin: 12px auto;
+    display: block;
+    max-width: 500px;
+}
+
+
+@media (max-width: 550px) {
+    .play-content {
+        width:85%;
+    }
+    .ai-pics {
+        gap: 5px;
+        width: 200px;
+    }
+    .ai-pics img {
+        width: 100px;
+    }
+    .game-content-container .btn {
+        max-width: 300px;
+    }
+}

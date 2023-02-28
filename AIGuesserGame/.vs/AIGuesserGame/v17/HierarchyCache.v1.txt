@@ -1,0 +1,316 @@
+﻿++Solution 'AIGuesserGame' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:AIGuesserGame.sln
+++AIGuesserGame
+i:{00000000-0000-0000-0000-000000000000}:AIGuesserGame
+++Connected Services 
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2610
+++Dependencies
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2609
+++Properties
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\properties\
+++wwwroot
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\
+++css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\css\
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\
+++Game.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\css\game.css
+++home.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\css\home.css
+++site.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\css\site.css
+++Images
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\images\
+++game_image_1.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\game_image_1.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\images\game_image_1.jpg
+++game_image_2.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\game_image_2.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\images\game_image_2.jpg
+++game_image_3.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\game_image_3.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\images\game_image_3.jpg
+++game_image_4.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\game_image_4.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\images\game_image_4.jpg
+++HomeIcon.png
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\homeicon.png
+++images.jpg
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\images.jpg
+++PortraitPlaceholder.png
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\images\portraitplaceholder.png
+++js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\js\
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\js\site.js
+++lib
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\
+++bootstrap
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\
+++dist
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery\dist\
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation\dist\
+++bootstrap.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++LICENSE
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\license
+++jquery
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery\
+++jquery-validation
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\favicon.ico
+++Controllers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\controllers\
+++GameController.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\controllers\gamecontroller.cs
+++HomeController.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\controllers\homecontroller.cs
+++Models
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\models\
+++ErrorViewModel.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\models\errorviewmodel.cs
+++FirestoreGameData.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\models\firestoregamedata.cs
+++GameData.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\models\gamedata.cs
+++GameStats.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\models\gamestats.cs
+++Views
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\
+++Game
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\game\
+++Game.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\game\game.cshtml
+++Instructions.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\game\instructions.cshtml
+++Results.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\game\results.cshtml
+++Home
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\home\
+++Index.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\home\index.cshtml
+++Privacy.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\home\privacy.cshtml
+++Shared
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\shared\
+++_Layout.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\_viewstart.cshtml
+++appsettings.json
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\appsettings.json
+++asp-ai-guesser-firebase.json
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\asp-ai-guesser-firebase.json
+++Program.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\program.cs
+++SessionVariables.cs
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\sessionvariables.cs
+++No service dependencies discovered
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2611
+++Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:analyzers
+++Frameworks
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:frameworks
+++Packages
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:packages
+++PublishProfiles
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\properties\publishprofiles\
+++ServiceDependencies
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\properties\servicedependencies\
+++launchSettings.json
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\properties\launchsettings.json
+++bootstrap.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++LICENSE.txt
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery\license.txt
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\appsettings.development.json
+++MessagePackAnalyzer
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\microsoft.netcore.app
+++DeepAI.Client (1.3.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2626
+++Firebase.Auth (1.0.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2630
+++FirebaseStorage.net (1.0.3)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2634
+++Google.Cloud.Firestore (3.0.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2628
+++Microsoft.AspNetCore.Authentication.Abstractions (2.2.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2622
+++Microsoft.AspNetCore.Authentication.Core (2.2.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2624
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2627
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.11)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2631
+++Microsoft.AspNetCore.Session (2.2.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2633
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2623
+++Microsoft.EntityFrameworkCore.Tools (7.0.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2635
+++Microsoft.jQuery.Unobtrusive.Ajax (3.1.2)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2629
+++Microsoft.jQuery.Unobtrusive.Validation (4.0.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2632
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.10)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2636
+++Swashbuckle.AspNetCore (6.3.0)
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:>2625
+++AIGuise - Web Deploy.pubxml
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\properties\publishprofiles\aiguise - web deploy.pubxml
+++AIGuise - Web Deploy
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\properties\servicedependencies\aiguise - web deploy\
+++bootstrap.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++profile.arm.json
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\properties\servicedependencies\aiguise - web deploy\profile.arm.json
+++bootstrap.rtl.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.js.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++jquery.min.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.bundle.min.js.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++jquery.min.map
+i:{2ddb1dcb-0e7a-4ab9-b7e3-b53bbd16bb98}:c:\users\jasper\desktop\actives\ai-guise\aiguessergame\aiguessergame\wwwroot\lib\jquery\dist\jquery.min.map

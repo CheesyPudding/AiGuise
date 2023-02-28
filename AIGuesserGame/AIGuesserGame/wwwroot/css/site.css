@@ -1,0 +1,80 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.example {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+header {
+    justify-content: space-between;
+    align-items: center;
+    height: 7em;
+    background-image: linear-gradient(#351c75, #0D0D0D);
+}
+
+body {
+    background-color: #0D0D0D !important;
+    margin-bottom: 0 !important;
+}
+
+.app-btn {
+    border: none;
+    font-weight: bold;
+    font-size: 1.4em;
+    padding: 1.2rem 1.2rem;
+    /*padding: 20px 20px;*/
+    text-transform: uppercase;
+    border-radius: 0.75rem;
+    width: 150px;
+    line-height: 1em;
+}
+
+.major-btn {
+    color: #774836;
+    background-color: #F3CDA9;
+}
+
+.minor-btn {
+    color: #774836;
+    background-color: #D9D9D9;
+}
+
+header .btn-container {
+    margin-top: 2em;
+    float: right;
+}
+
+    header .btn-container i {
+        margin: 0 .5em;
+        color: #fff;
+        font-size: 28px;
+        float: right;
+    }
+
+    header .btn-container i:hover {
+        color: #D9D9D9;
+    }
+
+.modal-bg-color {
+    background-color: #0D0D0D;
+}
+
+.aIGuise {
+    width: 70%;
+}
